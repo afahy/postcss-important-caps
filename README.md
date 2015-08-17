@@ -1,2 +1,2 @@
 # postcss-important-caps
-Test Postcss plugin to transform capitalized CSS declarations into !important 
+Test [PostCss](https://github.com/postcss/postcss) plugin to transform capitalized CSS declarations into `!important`
